@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "parser": "babel-eslint",
+  // handle async
+  "parserOptions": {
+      "ecmaVersion": 8
+  },
+}
